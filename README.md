@@ -308,7 +308,7 @@ To address gaps in compliance, Botium Toys needs to implement controls such as *
 | Document | Description |
 |----------|-------------|
 | **[Controls & Compliance Checklist](docs/Controls_and_compliance_checklist.docx)** | Completed Yes/No assessment for all 14 controls and 12 compliance best practices |
-| **[Control Categories Reference](docs/Control_categories.docx)** | Full reference of administrative, technical, and physical control types and purposes |
+| **[Control Categories Reference](docs/Control%20categories.docx)** | Full reference of administrative, technical, and physical control types and purposes |
 
 ---
 
